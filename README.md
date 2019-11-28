@@ -1,6 +1,9 @@
 # Darwinex-ticks
 Darwinex tick data python API.
 
+Schema: 
+https://bubbl.us/NDc3NDc4NC80Mzk3ODEzLzQ2ZTJjNDdiMDBjMGMyNjA5MjQ3NzkyYjZmYjZmZDZk@X?utm_source=shared-link&utm_medium=link&s=10329568
+
 The broker Darwinex offers to their real accounts a historical data dowload 
 service using a ftp server. 
 
